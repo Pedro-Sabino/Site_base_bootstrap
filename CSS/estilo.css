@@ -1,5 +1,5 @@
 body{
-    background-color: lightskyblue;
+    background-color: rgb(1, 12, 63);
 }
 .col{
     background-color: white;
@@ -7,4 +7,10 @@ body{
 .container{
     margin-top:20px;
     border-radius: 15px;
+}
+a{
+    color: rgb(255, 255, 255);
+}
+a:hover{
+    color: rgba(255, 255, 255, 0.514);
 }
